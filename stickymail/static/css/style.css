@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h3{
+  display: inline-block;
+  color: white;
+}
+
+.container{
+  height: 900px;
+}
+
+.footer{
+  text-align: center;
+  padding: 20px;
+
+}
